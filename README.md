@@ -13,7 +13,7 @@
 
 Esse projeto também tem em .NET-CORE 8
 
-[![Acesse: ShortMyUrl-DOTNET](https://img.shields.io/badge/Acesse-ShortMyUrl--DOTNET-%237025F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-Amorim-Dev/ShortMyUrl-DOTNET)
+[![Acesse: ShortMyUrl-DOTNET](https://img.shields.io/badge/Repo-ShortMyUrl--DOTNET-%237025F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-Amorim-Dev/ShortMyUrl-DOTNET)
 
 ## 🚀 Tecnologias
 
