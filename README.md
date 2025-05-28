@@ -1,12 +1,12 @@
 # ShortMyUrl
 
-![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0+-brightgreen?logo=spring-boot)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-3.9+-orange?logo=apache-maven)
-[![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)](https://www.docker.com/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
-[![Build](https://img.shields.io/badge/build-passing-brightgreen)]()
+![Java](https://img.shields.io/badge/Java-17-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0%2B-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-3.9%2B-%23C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-Container-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-%23333?style=for-the-badge&logo=license&logoColor=white)](LICENSE)
+![Build](https://img.shields.io/badge/Build-Passing-%2300C853?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 **ShortMyUrl** é uma aplicação web desenvolvida em JAVA para encurtamento de URLs, com backend em Spring e persistência de dados no MongoDB. Ideal para criar e redirecionar links curtos de forma rápida e eficiente.
@@ -23,7 +23,6 @@ Esse projeto também tem em .NET-CORE 8
 - Swagger (para testes e documentação da API)
 
 ## 📁 Arquitetura do Projeto
-<img src="IMG/DDD.png" alt="Ilustração de um computador" width="400px" align="left"/>
 
 <p>O projeto segue uma arquitetura modular baseada em camadas, com princípios de Domain-Driven Design (DDD) e separação de responsabilidades, facilitando manutenção, testes e escalabilidade.
 
@@ -37,7 +36,7 @@ Contém a lógica de negócio (serviços de domínio e regras de validação). �
 Camada de persistência de dados. Responsável por interagir com o MongoDB, utilizando repositórios genéricos e entidades persistentes.
 </p>
 
-<img src="IMG/solid_principles.png" width="600px" align="center">
+<img src="IMG/Arquitetura do Projeto.png" width="100%" align="center">
 
 ## 🛠️ Como rodar o projeto
 
