@@ -12,7 +12,8 @@
 **ShortMyUrl** é uma aplicação web desenvolvida em JAVA para encurtamento de URLs, com backend em Spring e persistência de dados no MongoDB. Ideal para criar e redirecionar links curtos de forma rápida e eficiente.
 
 Esse projeto também tem em .NET-CORE 8
-- Acesse: [ShortMyUrl-DOTNET](https://github.com/Felipe-Amorim-Dev/ShortMyUrl-DOTNET)
+
+[![Acesse: ShortMyUrl-DOTNET](https://img.shields.io/badge/Acesse-ShortMyUrl--DOTNET-%237025F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-Amorim-Dev/ShortMyUrl-DOTNET)
 
 ## 🚀 Tecnologias
 
